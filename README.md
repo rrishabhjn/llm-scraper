@@ -102,4 +102,4 @@ MIT © Rishabh Jain
 
 ## 🙋‍♂️ Author
 
-[Rishabh Jain](https://www.linkedin.com/in/rishabhjain-microsoft) – PM with a builder mindset. I work at the intersection of AI, automation, and developer tools.
+[Rishabh Jain](https://www.linkedin.com/in/rrishabhjn) – PM with a builder mindset. I work at the intersection of AI, automation, and developer tools.
